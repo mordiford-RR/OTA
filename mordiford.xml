@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus2>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for OnePlus 2 (oneplus2)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7N3Rocm9DeGRkTkU</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </oneplus2>
+        <oneplus3>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for OnePlus 3 (oneplus3)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7bXlOX0NSU1VaMVU</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </oneplus3>
+        <bacon>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for OnePlus One (bacon)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7el9nR1ZsLUxZYjQ</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </bacon>
+        <libra>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Xiaomi Mi 4c/Mi 4S (libra/aqua)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7ZXI0dVpnd1hjOEU</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </libra>
+        <nx512j>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Nubia Z9 Max (nx512j)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXNsZzFrVUJOUFU</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </nx512j>
+        <kiwi>
+            <Filename>null</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Huawei GR5/Honor 5X (kiwi)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7QUVRQVNGbGZtZ28</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </kiwi>
+    </Stable>
+</SlimOTA>
