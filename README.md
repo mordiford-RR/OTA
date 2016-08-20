@@ -7,4 +7,5 @@
     - `libra`
     - `nx512j`
     - `kiwi`
+    - `sc02f`
 - ROMの詳細は [https://github.com/mordiford/resurrection_manifest/wiki](https://github.com/mordiford/resurrection_manifest/wiki) 参照。

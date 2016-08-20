@@ -91,5 +91,20 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </kiwi>
+        <sc02f>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160820_045842-mordiford-sc02f.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Samsung GALAXY J (sc02f)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7VUwxZ0ZzNnJEZzQ</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </sc02f>
     </Stable>
 </SlimOTA>
