@@ -106,5 +106,20 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </mondrianwifi>
+        <flo>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160909_104242-mordiford-flo.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Nexus 7 2013 Wi-Fi (flo)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7bjlQQ1kxekZMTms</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </flo>
     </Stable>
 </SlimOTA>
