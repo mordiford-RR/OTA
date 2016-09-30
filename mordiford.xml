@@ -58,6 +58,25 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
         </bacon>
+        <gemini>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160930_021049-mordiford-gemini.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download mordiford-RR for Xiaomi Mi 5 (gemini)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7cVEyVThjS3RrVzg</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="View README">https://github.com/mordiford/resurrection_manifest/wiki</ReadmeUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+        </gemini>
         <libra>
             <Filename>ResurrectionRemix-M-v5.7.4-20160924_005318-mordiford-libra.zip</Filename>
             <RomUrl
