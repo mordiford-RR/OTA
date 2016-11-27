@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161126_055551-mordiford-oneplus3.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161127_065747-mordiford-oneplus3.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
